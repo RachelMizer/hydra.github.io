@@ -1,0 +1,94 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(#006cff, #7e00ff, #300061);
+    min-height: 100vh; /* Ensure it covers the full viewport height */
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+table {
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+    margin: auto;
+    padding: 5px;
+}
+
+th {
+    background-color: #7e57a5;
+    padding: 5px;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 2px;
+}
+
+tr {
+    
+}
+
+td {
+    padding: 5px;
+    border-radius: 2px;
+}
+
+h1 {
+    color: #ffffff;
+    width: 40%;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.sub {
+    color: #ffffff;
+    margin: auto;
+    margin-top: -5px;
+    margin-bottom: 10px;
+    width: 75%;
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.sprint1 {
+    background-color: #bdbdff;
+    font-weight: bold;
+}
+
+.sprint2 {
+    background-color: #b8c8f5;
+    font-weight: bold;
+}
+
+.sprint3 {
+    background-color: #e1d4f5;
+    font-weight: bold;
+}
+
+.sprint4 {
+    background-color: #c1deed;
+    font-weight: bold;
+}
+
+.one {
+    background-color: #d7d7ff;
+}
+
+.two {
+    background-color: #cddaff;
+}
+
+.three {
+    background-color: #f2e9ff;
+}
+
+.four {
+    background-color: #d8f2ff;
+}
