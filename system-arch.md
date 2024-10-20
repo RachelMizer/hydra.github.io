@@ -15,12 +15,6 @@
   
 - **NotificationService**: Sends alerts for low stock or other important events.
 
-### Adding the Diagram to Markdown
-
-You can copy this Mermaid diagram into your Markdown file directly. If you need to customize it, you can update the labels to better reflect the specific components in your bookstore software.
-
-Would you like to modify or add more details to this structure, such as specific third-party services or additional interactions?
-
 
 ```mermaid
 graph TD
